@@ -1,4 +1,4 @@
-## Unidade 1 – Introdução a Web e Tópicos de Design
+# Unidade 1 – Introdução a Web e Tópicos de Design
 
 <p align="justify">
   Nesta unidade, vamos fazer uma introdução às tecnologias Web e descrever os principais conceitos aplicados ao Design de Interface de Usuário.
