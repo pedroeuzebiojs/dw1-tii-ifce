@@ -1,13 +1,15 @@
-**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ** <br>
-**CAMPUS BATURITÉ** <br>
-**CURSO TÉCNICO EM INFORMÁTICA PARA INTERNET**
+**Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)**
 
-**ATIVIDADE 1 DA UNIDADE 1 DA DISCIPLINA DE DESENVOLVIMENTO WEB 1**
+**Campus Baturité**
 
-**REDENÇÃO-CE** <br>
+**Curso Técnico em Informática para Internet**
+
+**Atividade 1 da Unidade 1 da Disciplina de Desenvolvimento Web 1**
+
+**Redenção-CE** <br>
 **2024**
 
-**IDENTIFICAÇÃO DO ALUNO**
+**Identificação do Aluno**
 
 **Nome:** Pedro Henrique Marinho Euzebio <br>
 **Curso:** Técnico em Informática para Internet <br>
