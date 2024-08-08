@@ -2,6 +2,14 @@
   Desenvolvimento Web 1
 </h1>
 
+## Roteiro
+
+- [Roteiro](#roteiro)
+- [Sobre](#sobre)
+- [Unidade 1 – Introdução a Web e Tópicos de Design](#unidade-1--introdução-a-web-e-tópicos-de-design)
+- [Unidade 2 – Construção do Design de Páginas Web com Figma](#unidade-2--construção-do-design-de-páginas-web-com-figma)
+- [Unidade 3 - Introdução ao HTML e GitHub](#unidade-3---introdução-ao-html-e-github)
+
 <p align="center">
   <img src="./.github/Banner Desenvolvimento Web 1.jpg" alt="Banner Desenvolvimento Web 1">
 </p>
@@ -52,3 +60,20 @@
   - Página Inicial
   - Página Interna
   - Formulários
+
+## Unidade 3 - Introdução ao HTML e GitHub
+
+Nesta unidade, vamos fazer uma introdução a páginas web estáticas e principais linguagens: HTML, CSS e Javascript. Aprenderemos a sintaxe básica do HTML e seus principais elementos. Também faremos uma breve introdução a sistemas de controle de versões e como armazenar e publicar nossas páginas web estáticas no Github.
+
+**Conteúdo:**
+
+- Introdução ao HTML:
+  - Sintaxe básica do HTML
+  - Elementos de Texto, Imagens e Links
+  - Prática das tags em ferramenta online de edição
+  - Tags semânticas
+  - Instalação de uma ambiente de Desenvolvimento Local
+- Uso do Github:
+  - Criar repositório
+  - Enviar os arquivos
+  - Ligar Github pages
