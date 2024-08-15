@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Usuários</title>
+  </head>
+  <body>
+    <div id="app">
+      <header>
+        <h1>Pedro Euzebio</h1>
+      </header>
+
+      <nav>
+        <ul>
+          <li><a href="../home/index.html">Home</a></li>
+          <li><a href="./index.html">Usuários</a></li>
+          <li><a href="../index.html">Login</a></li>
+          <li><a href="../cadastro/index.html">Cadastro</a></li>
+        </ul>
+      </nav>
+
+      <main>
+        <section>
+          <form>
+            <fieldset>
+              <legend>Crie um usuário</legend>
+              <p>Crie um usuário com nome, e-mail e senha</p>
+
+              <div class="input-wrapper">
+                <label for="name">Nome</label>
+                <input
+                  type="text"
+                  name="name"
+                  id="name"
+                  placeholder="Digite o nome"
+                  required
+                />
+              </div>
+
+              <div class="input-wrapper">
+                <label for="email">E-mail</label>
+                <input
+                  type="email"
+                  name="email"
+                  id="email"
+                  placeholder="Digite o e-mail"
+                  required
+                />
+              </div>
+
+              <div>
+                <label for="passoword">Senha</label>
+                <input
+                  type="password"
+                  name="passoword"
+                  id="passoword"
+                  placeholder="Digite a senha"
+                  required
+                />
+              </div>
+
+              <button type="submit">Criar</button>
+            </fieldset>
+          </form>
+        </section>
+
+        <section>
+          <table>
+            <thead>
+              <tr>
+                <th>Identificador</th>
+                <th>Nome</th>
+                <th>E-mail</th>
+                <th>Senha</th>
+                <th>Edição</th>
+              </tr>
+            </thead>
+
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>Pedro Euzebio</td>
+                <td>pedro.euzebio@email.com</td>
+                <td>12345678</td>
+                <td>
+                  <button>Editar</button>
+                  <button>Excluir</button>
+                </td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>Ataslan</td>
+                <td>ataslan@email.com</td>
+                <td>87654321</td>
+                <td>
+                  <button>Editar</button>
+                  <button>Excluir</button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+      </main>
+
+      <footer>
+        <p>
+          Criado com ❤️ por
+          <a href="https://pedroeuzebio-links.vercel.app" target="_blank">
+            Pedro Euzebio
+          </a>
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

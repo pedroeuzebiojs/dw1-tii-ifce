@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login</title>
+  </head>
+  <body>
+    <div id="app">
+      <header>
+        <h1>Pedro Euzebio</h1>
+      </header>
+
+      <nav>
+        <ul>
+          <li><a href="./home/index.html">Home</a></li>
+          <li><a href="./usuarios/index.html">Usuários</a></li>
+          <li><a href="./index.html">Login</a></li>
+          <li><a href="./cadastro/index.html">Cadastro</a></li>
+        </ul>
+      </nav>
+
+      <main>
+        <section>
+          <form>
+            <fieldset>
+              <legend>Faça seu Login</legend>
+              <p>Entre com suas informações de cadastro</p>
+
+              <div class="input-wrapper">
+                <label for="email">E-mail</label>
+                <input
+                  type="email"
+                  name="email"
+                  id="email"
+                  placeholder="Digite seu e-mail"
+                  required
+                />
+              </div>
+
+              <div class="input-wrapper">
+                <label for="password">Senha</label>
+                <input
+                  type="password"
+                  name="password"
+                  id="password"
+                  placeholder="Digite sua senha"
+                  required
+                />
+              </div>
+
+              <div>
+                <div>
+                  <input type="checkbox" name="remember-me" id="remember-me" />
+                  <label for="remember-me">Lembre-me</label>
+                </div>
+
+                <a href="#">Esqueci minha senha</a>
+              </div>
+
+              <button type="submit">Entrar</button>
+
+              <p>
+                Não tem uma conta?
+                <a href="./cadastro/index.html">Registre-se</a>
+              </p>
+            </fieldset>
+          </form>
+        </section>
+      </main>
+
+      <footer>
+        <p>
+          Criado com ❤️ por
+          <a href="https://pedroeuzebio-links.vercel.app" target="_blank">
+            Pedro Euzebio
+          </a>
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>
