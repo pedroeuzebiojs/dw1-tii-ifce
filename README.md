@@ -4,7 +4,6 @@
 
 ## Roteiro
 
-- [Roteiro](#roteiro)
 - [Sobre](#sobre)
 - [Unidade 1 – Introdução a Web e Tópicos de Design](#unidade-1--introdução-a-web-e-tópicos-de-design)
 - [Unidade 2 – Construção do Design de Páginas Web com Figma](#unidade-2--construção-do-design-de-páginas-web-com-figma)
@@ -77,3 +76,14 @@ Nesta unidade, vamos fazer uma introdução a páginas web estáticas e principa
   - Criar repositório
   - Enviar os arquivos
   - Ligar Github pages
+
+## Unidade 4 – Sintaxe do HTML
+
+Nesta unidade, vamos continuar o estudo da linguagem HTML, discutindo as melhores práticas e a criação de formulários e tabelas.
+
+**Conteúdo:**
+
+- Sintaxe da Linguagem HTML:
+  - Boas práticas
+  - Formulários
+  - Tabelas
