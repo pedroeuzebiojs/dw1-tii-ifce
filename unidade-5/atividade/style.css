@@ -1,0 +1,233 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  font-size: 62.5%;
+  --background: hsl(222.2 84% 4.9%);
+  --foreground: hsl(210 40% 98%);
+  --primary: hsl(217.2 91.2% 59.8%);
+  --primary-foreground: hsl(222.2 47.4% 11.2%);
+  --secondary: hsl(217.2 32.6% 17.5%);
+  --muted-foreground: hsl(215 20.2% 65.1%);
+}
+
+body * {
+  font-family: "Inter", sans-serif;
+  font-size: 1.6rem;
+
+  color: var(--foreground);
+}
+
+body {
+  background: var(--background);
+}
+
+.btn {
+  background: var(--background);
+
+  color: var(--foreground);
+
+  font-weight: 500;
+
+  border: none;
+  border-radius: 0.8rem;
+
+  cursor: pointer;
+
+  transition: all 0.3 ease-in-out;
+}
+
+.btn:hover {
+  background: hsl(222, 100%, 5%);
+}
+
+#app {
+  width: 100%;
+  max-width: 1024px;
+  margin: auto;
+  padding: 5.6rem 2.4rem 0;
+}
+
+header {
+  padding: 2.4rem 0;
+}
+
+header h1 {
+  font-size: 3rem;
+  font-weight: 700;
+
+  color: var(--primary);
+}
+
+nav {
+  padding: 2.4rem 0;
+}
+
+ul {
+  list-style: none;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+ul li a {
+  text-decoration: none;
+
+  font-weight: 500;
+}
+
+ul li a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 2.4rem 0;
+}
+
+section:nth-of-type(1) {
+  margin-bottom: 4.8rem;
+}
+
+form {
+  margin: auto;
+  padding: 4.8rem;
+  width: 100%;
+  max-width: 58.4rem;
+  border-radius: 0.8rem;
+
+  background: var(--primary-foreground);
+}
+
+form fieldset {
+  border: none;
+}
+
+form fieldset legend {
+  font-size: 2.4rem;
+  font-weight: 600;
+
+  text-align: center;
+
+  margin-bottom: 0.8rem;
+}
+
+form fieldset p:nth-of-type(1) {
+  text-align: center;
+
+  margin-bottom: 2.4rem;
+}
+
+.input-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+
+  margin-bottom: 2.4rem;
+}
+
+.input-wrapper label {
+  font-weight: 500;
+}
+
+.input-wrapper input {
+  padding: 0.8rem 1.6rem;
+  border-radius: 0.4rem;
+  outline: none;
+  border: none;
+
+  color: var(--background);
+
+  background: var(--foreground);
+}
+
+.input-wrapper input::placeholder {
+  color: var(--background);
+}
+
+#wrapper-remember-me-forgout-password {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-bottom: 2.4rem;
+}
+
+#wrapper-remember-me {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+#wrapper-remember-me-forgout-password input[type="checkbox"] {
+  width: 1.8rem;
+  height: 1.8rem;
+}
+
+form fieldset button {
+  padding: 1.2rem 2.4rem;
+
+  font-size: 1.8rem;
+
+  width: 100%;
+
+  margin-bottom: 2.4rem;
+}
+
+form fieldset p:nth-of-type(2) {
+  text-align: center;
+}
+
+form fieldset a {
+  text-decoration: none;
+}
+
+table {
+  background: var(--primary-foreground);
+
+  margin: auto;
+}
+
+table,
+th,
+td {
+  border: 1px solid var(--foreground);
+  border-collapse: collapse;
+}
+
+th {
+  width: 20rem;
+  padding: 1.6rem;
+}
+
+td {
+  width: 20rem;
+  padding: 1.6rem;
+
+  text-align: center;
+}
+
+table td button {
+  padding: 0.6rem 1.2rem;
+}
+
+footer {
+  padding: 2.4rem 5.6rem;
+}
+
+footer p {
+  text-align: center;
+
+  font-size: 1.4rem;
+}
+
+footer a {
+  font-size: 1.4rem;
+
+  text-decoration: none;
+}

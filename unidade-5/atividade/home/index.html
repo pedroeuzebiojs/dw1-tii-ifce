@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="../style.css" />
+  </head>
+  <body>
+    <div id="app">
+      <header>
+        <h1>Pedro Euzebio</h1>
+      </header>
+
+      <nav>
+        <ul>
+          <li><a href="./index.html">Home</a></li>
+          <li><a href="../usuarios/index.html">Usuários</a></li>
+          <li><a href="../index.html">Login</a></li>
+          <li><a href="../cadastro/index.html">Cadastro</a></li>
+        </ul>
+      </nav>
+
+      <main>
+        <section>
+          <form>
+            <fieldset>
+              <legend>Crie uma tarefa</legend>
+              <p>Crie uma tarefa com título e descrição</p>
+
+              <div class="input-wrapper">
+                <label for="title">Título</label>
+                <input
+                  type="text"
+                  name="title"
+                  id="title"
+                  placeholder="Digite o título"
+                  required
+                />
+              </div>
+
+              <div class="input-wrapper">
+                <label for="description">Descrição</label>
+                <input
+                  type="text"
+                  name="description"
+                  id="description"
+                  placeholder="Digite a descrição"
+                  required
+                />
+              </div>
+
+              <button type="submit" class="btn">Criar</button>
+            </fieldset>
+          </form>
+        </section>
+
+        <section>
+          <table>
+            <thead>
+              <tr>
+                <th>Identificador</th>
+                <th>Título</th>
+                <th>Descrição</th>
+                <th>Edição</th>
+              </tr>
+            </thead>
+
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>Estudar a tag header</td>
+                <td>Estudar a respeito da tag semântico header do HTML</td>
+                <td>
+                  <button class="btn">Editar</button>
+                  <button class="btn">Excluir</button>
+                </td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>Estudar a tag form</td>
+                <td>
+                  Estudar a respeito da tag form do HTML para estruturação de
+                  formulários
+                </td>
+                <td>
+                  <button class="btn">Editar</button>
+                  <button class="btn">Excluir</button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+      </main>
+
+      <footer>
+        <p>
+          Criado com ❤️ por
+          <a href="https://pedroeuzebio-links.vercel.app" target="_blank">
+            Pedro Euzebio
+          </a>
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>
