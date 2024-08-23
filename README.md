@@ -1,6 +1,4 @@
-<h1 align="center">
-  Desenvolvimento Web 1
-</h1>
+# Desenvolvimento Web 1
 
 ## Roteiro
 
@@ -8,22 +6,18 @@
 - [Unidade 1 – Introdução a Web e Tópicos de Design](#unidade-1--introdução-a-web-e-tópicos-de-design)
 - [Unidade 2 – Construção do Design de Páginas Web com Figma](#unidade-2--construção-do-design-de-páginas-web-com-figma)
 - [Unidade 3 - Introdução ao HTML e GitHub](#unidade-3---introdução-ao-html-e-github)
+- [Unidade 4 – Sintaxe do HTML](#unidade-4--sintaxe-do-html)
+- [Unidade 5 – Layouts HTML e Introdução ao CSS](#unidade-5--layouts-html-e-introdução-ao-css)
 
-<p align="center">
-  <img src="./.github/Banner Desenvolvimento Web 1.jpg" alt="Banner Desenvolvimento Web 1">
-</p>
+![Banner Desenvolvimento Web 1](./.github/Banner%20Desenvolvimento%20Web%201.jpg)
 
 ## Sobre
 
-<p align="justify">
-  Nesta disciplina, iniciaremos nossa jornada no mundo do desenvolvimento web. Conheceremos o ambiente da Internet; veremos noções de design; e aplicaremos esses conceitos na prática utilizando HTML e CSS.
-</p>
+Nesta disciplina, iniciaremos nossa jornada no mundo do desenvolvimento web. Conheceremos o ambiente da Internet; veremos noções de design; e aplicaremos esses conceitos na prática utilizando HTML e CSS.
 
 ## Unidade 1 – Introdução a Web e Tópicos de Design
 
-<p align="justify">
-  Nesta unidade, vamos fazer uma introdução às tecnologias Web e descrever os principais conceitos aplicados ao Design de Interface de Usuário.
-</p/>
+Nesta unidade, vamos fazer uma introdução às tecnologias Web e descrever os principais conceitos aplicados ao Design de Interface de Usuário.
 
 **Conteúdo:**
 
@@ -42,9 +36,7 @@
 
 ## Unidade 2 – Construção do Design de Páginas Web com Figma
 
-<p align="justify">
-  Nesta unidade, vamos finalizar os conceitos de design e aprender a construir o layout de uma página web com o Figma.
-</p>
+Nesta unidade, vamos finalizar os conceitos de design e aprender a construir o layout de uma página web com o Figma.
 
 **Conteúdo:**
 
@@ -87,3 +79,19 @@ Nesta unidade, vamos continuar o estudo da linguagem HTML, discutindo as melhore
   - Boas práticas
   - Formulários
   - Tabelas
+
+## Unidade 5 – Layouts HTML e Introdução ao CSS
+
+Nesta unidade vamos aprender a construção de layouts HTML com Iframe e fazer uma introdução à sintaxe básica do CSS e seus principais elementos.
+
+**Conteúdo:**
+
+- Boas práticas de construção de layout com HTML
+- Introdução ao CSS
+  - Sintaxe básica
+  - Incorporação ao HTML (inline, interno, externo)
+  - Cores e Background
+  - Tipografia
+  - Borda
+  - Margem
+  - Padding
