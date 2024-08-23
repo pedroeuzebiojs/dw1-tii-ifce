@@ -1,8 +1,6 @@
 # Unidade 2 – Construção do Design de Páginas Web com Figma
 
-<p align="justify">
-  Nesta unidade, vamos finalizar os conceitos de design e aprender a construir o layout de uma página web com o Figma.
-</p>
+Nesta unidade, vamos finalizar os conceitos de design e aprender a construir o layout de uma página web com o Figma.
 
 **Conteúdo:**
 
