@@ -23,6 +23,9 @@
   <li>
     <a href="#unidade-5--layouts-html-e-introdução-ao-css">Unidade 5 - Layouts HTML e Introdução ao CSS</a>
   </li>
+  <li>
+    <a href="#unidade-6--definição-do-design-de-páginas-web-com-css">Unidade 6 – Definição do Design de Páginas Web com CSS</a>
+  </li>
 </ul>
 
 ![Banner de Apresentação do Repositório da Disciplina de Desenvolvimento Web 1 do Curso Técnico em Informática para Internet do IFCE.](./assets/Banner.jpg)
