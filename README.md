@@ -26,6 +26,9 @@
   <li>
     <a href="#unidade-6--definição-do-design-de-páginas-web-com-css">Unidade 6 – Definição do Design de Páginas Web com CSS</a>
   </li>
+  <li>
+    <a href="#unidade-7--responsividade-de-páginas-web-com-css">Unidade 7 - Responsividade de Páginas Web com CSS</a>
+  </li>
 </ul>
 
 ![Banner de Apresentação do Repositório da Disciplina de Desenvolvimento Web 1 do Curso Técnico em Informática para Internet do IFCE.](./assets/Banner.jpg)
@@ -133,3 +136,14 @@
 - Posicionamento
 - Flex
 - Grid
+
+## Unidade 7 – Responsividade de Páginas Web com CSS
+
+<p align="justify">
+  Na unidade 5, você aprendeu o básico sobre CSS, que possibilitou a descrição do visual do seu site. Na unidade 6, você aprendeu a posicionar os elementos lado a lado, ocupando mais espaço, ideal para telas maiores, como a de um computador. Nesta unidade, aprenderemos técnicas para tornar o visual do seu site responsivo, ou seja, que ele seja fácil de ler e usar em qualquer tamanho de tela.
+</p>
+
+**Conteúdo:**
+
+- Desenvolvimento de projeto com responsividade
+- Media Queries
