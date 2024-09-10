@@ -1,49 +1,26 @@
-<h1 align="center">
-  Desenvolvimento Web 1
-</h1>
+# Desenvolvimento Web 1
 
 ## Roteiro
 
-<ul>
-  <li>
-    <a href="#sobre">Sobre</a>
-  </li>
-  <li>
-    <a href="#unidade-1--introdução-a-web-e-tópicos-de-design">Unidade 1 - Introdução a Web e Tópicos de Design</a>
-  </li>
-  <li>
-    <a href="#unidade-2--construção-do-design-de-páginas-web-com-figma">Unidade 2 - Construção de Páginas Web com Figma</a>
-  </li>
-  <li>
-    <a href="#unidade-3---introdução-ao-html-e-github">Unidade 3 - Introdução ao HTML e GitHub</a>
-  </li>
-  <li>
-    <a href="#unidade-4--sintaxe-do-html">Unidade 4 - Sintaxe do HTML</a>
-  </li>
-  <li>
-    <a href="#unidade-5--layouts-html-e-introdução-ao-css">Unidade 5 - Layouts HTML e Introdução ao CSS</a>
-  </li>
-  <li>
-    <a href="#unidade-6--definição-do-design-de-páginas-web-com-css">Unidade 6 – Definição do Design de Páginas Web com CSS</a>
-  </li>
-  <li>
-    <a href="#unidade-7--responsividade-de-páginas-web-com-css">Unidade 7 - Responsividade de Páginas Web com CSS</a>
-  </li>
-</ul>
+- [Sobre a disciplina](#sobre-a-disciplina)
+- [Unidade 1 - Introdução a Web e Tópicos de Design](#unidade-1--introdução-a-web-e-tópicos-de-design)
+- [Unidade 2 – Construção do Design de Páginas Web com Figma](#unidade-2--construção-do-design-de-páginas-web-com-figma)
+- [Unidade 3 - Introdução ao HTML e GitHub](#unidade-3---introdução-ao-html-e-github)
+- [Unidade 4 - Sintaxe do HTML](#unidade-4--sintaxe-do-html)
+- [Unidade 5 - Layouts HTML e Introdução ao CSS](#unidade-5--layouts-html-e-introdução-ao-css)
+- [Unidade 6 - Definição de Páginas Web com CSS](#unidade-6--definição-do-design-de-páginas-web-com-css)
+- [Unidade 7 - Responsividade de Páginas Web com CSS](#unidade-7--responsividade-de-páginas-web-com-css)
+- [Unidade 8 - Frameworks CSS](#unidade-8--frameworks-css)
 
 ![Banner de Apresentação do Repositório da Disciplina de Desenvolvimento Web 1 do Curso Técnico em Informática para Internet do IFCE.](./assets/Banner.jpg)
 
-## Sobre
+## Sobre a disciplina
 
-<p align="justify">
-  Nesta disciplina, iniciaremos nossa jornada no mundo do desenvolvimento web. Conheceremos o ambiente da Internet, veremos noções de design e aplicaremos esses conceitos na prática utilizando HTML e CSS.
-</p>
+Nesta disciplina, iniciaremos nossa jornada no mundo do desenvolvimento web. Conheceremos o ambiente da Internet, veremos noções de design e aplicaremos esses conceitos na prática utilizando HTML e CSS.
 
 ## Unidade 1 – Introdução a Web e Tópicos de Design
 
-<p align="justify">
-  Nesta unidade, vamos fazer uma introdução às tecnologias Web e descrever os principais conceitos aplicados ao Design de Interface de Usuário.
-</p>
+Nesta unidade, vamos fazer uma introdução às tecnologias Web e descrever os principais conceitos aplicados ao Design de Interface de Usuário.
 
 **Conteúdo:**
 
@@ -59,9 +36,7 @@
 
 ## Unidade 2 – Construção do Design de Páginas Web com Figma
 
-<p align="justify">
-  Nesta unidade, vamos finalizar os conceitos de design e aprender a construir o layout de uma página web com o Figma.
-</p>
+Nesta unidade, vamos finalizar os conceitos de design e aprender a construir o layout de uma página web com o Figma.
 
 **Conteúdo:**
 
@@ -77,9 +52,7 @@
 
 ## Unidade 3 - Introdução ao HTML e GitHub
 
-<p align="justify">
-  Nesta unidade, vamos fazer uma introdução a páginas web estáticas e principais linguagens: HTML, CSS e Javascript. Aprenderemos a sintaxe básica do HTML e seus principais elementos. Também faremos uma breve introdução a sistemas de controle de versões e como armazenar e publicar nossas páginas web estáticas no Github.
-</p>
+Nesta unidade, vamos fazer uma introdução a páginas web estáticas e principais linguagens: HTML, CSS e Javascript. Aprenderemos a sintaxe básica do HTML e seus principais elementos. Também faremos uma breve introdução a sistemas de controle de versões e como armazenar e publicar nossas páginas web estáticas no Github.
 
 **Conteúdo:**
 
@@ -96,9 +69,7 @@
 
 ## Unidade 4 – Sintaxe do HTML
 
-<p align="justify">
-  Nesta unidade, vamos continuar o estudo da linguagem HTML, discutindo as melhores práticas e a criação de formulários e tabelas.
-</p>
+Nesta unidade, vamos continuar o estudo da linguagem HTML, discutindo as melhores práticas e a criação de formulários e tabelas.
 
 **Conteúdo:**
 
@@ -109,9 +80,7 @@
 
 ## Unidade 5 – Layouts HTML e Introdução ao CSS
 
-<p align="justify">
-  Nesta unidade vamos aprender a construção de layouts HTML com Iframe e fazer uma introdução à sintaxe básica do CSS e seus principais elementos.
-</p>
+Nesta unidade vamos aprender a construção de layouts HTML com Iframe e fazer uma introdução à sintaxe básica do CSS e seus principais elementos.
 
 **Conteúdo:**
 
@@ -127,9 +96,7 @@
 
 ## Unidade 6 – Definição do Design de Páginas Web com CSS
 
-<p align="justify">
-  Nesta unidade vamos continuar aprendendo as tags de estilo do CSS.
-</p>
+Nesta unidade vamos continuar aprendendo as tags de estilo do CSS.
 
 **Conteúdo:**
 
@@ -139,11 +106,15 @@
 
 ## Unidade 7 – Responsividade de Páginas Web com CSS
 
-<p align="justify">
-  Na unidade 5, você aprendeu o básico sobre CSS, que possibilitou a descrição do visual do seu site. Na unidade 6, você aprendeu a posicionar os elementos lado a lado, ocupando mais espaço, ideal para telas maiores, como a de um computador. Nesta unidade, aprenderemos técnicas para tornar o visual do seu site responsivo, ou seja, que ele seja fácil de ler e usar em qualquer tamanho de tela.
-</p>
+Na unidade 5, você aprendeu o básico sobre CSS, que possibilitou a descrição do visual do seu site. Na unidade 6, você aprendeu a posicionar os elementos lado a lado, ocupando mais espaço, ideal para telas maiores, como a de um computador. Nesta unidade, aprenderemos técnicas para tornar o visual do seu site responsivo, ou seja, que ele seja fácil de ler e usar em qualquer tamanho de tela.
 
 **Conteúdo:**
 
 - Desenvolvimento de projeto com responsividade
 - Media Queries
+
+## Unidade 8 – Frameworks CSS
+
+Durante essa jornada você aprendeu como a Internet funciona, viu noções de design e criou suas primeiras páginas web estáticas, usando HTML e CSS.
+
+Nesta unidade, vamos conhecer alguns frameworks CSS, criados para agilizar e padronizar o desenvolvimento web. Discutiremos as vantagens e desvantagens de frameworks como Bootstrap, Tailwind e Open Props.
