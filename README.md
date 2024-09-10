@@ -1,7 +1,5 @@
 # Desenvolvimento Web 1
 
-## Roteiro
-
 - [Sobre a disciplina](#sobre-a-disciplina)
 - [Unidade 1 - Introdução a Web e Tópicos de Design](#unidade-1--introdução-a-web-e-tópicos-de-design)
 - [Unidade 2 – Construção do Design de Páginas Web com Figma](#unidade-2--construção-do-design-de-páginas-web-com-figma)
@@ -12,7 +10,7 @@
 - [Unidade 7 - Responsividade de Páginas Web com CSS](#unidade-7--responsividade-de-páginas-web-com-css)
 - [Unidade 8 - Frameworks CSS](#unidade-8--frameworks-css)
 
-![Banner de Apresentação do Repositório da Disciplina de Desenvolvimento Web 1 do Curso Técnico em Informática para Internet do IFCE.](./assets/banner.jpg)
+![Banner da disciplina de Desenvolvimento Web 1 do curso Técnico em Informática para Internet do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).](./assets/banner.jpg)
 
 ## Sobre a disciplina
 
@@ -24,11 +22,11 @@ Nesta unidade, vamos fazer uma introdução às tecnologias Web e descrever os p
 
 **Conteúdo:**
 
-- Introdução à Internet e World Wide Web (WWW):
+- Introdução à Internet e World Wide Web (WWW)
   - O Ambiente Web: Histórico da Internet e Web
   - Conceitos Básicos da Arquitetura Cliente-Servidor
   - Serviços da Internet
-- Design de Interface de Usuário:
+- Design de Interface de Usuário
   - Princípios de IHC
   - Princípios de Diagramação
   - Princípios e elementos da UX
@@ -56,13 +54,13 @@ Nesta unidade, vamos fazer uma introdução a páginas web estáticas e principa
 
 **Conteúdo:**
 
-- Introdução ao HTML:
+- Introdução ao HTML
   - Sintaxe básica do HTML
   - Elementos de Texto, Imagens e Links
   - Prática das tags em ferramenta online de edição
   - Tags semânticas
   - Instalação de uma ambiente de Desenvolvimento Local
-- Uso do Github:
+- Uso do Github
   - Criar repositório
   - Enviar os arquivos
   - Ligar Github pages
