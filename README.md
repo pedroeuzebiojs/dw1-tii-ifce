@@ -12,7 +12,7 @@
 - [Unidade 7 - Responsividade de Páginas Web com CSS](#unidade-7--responsividade-de-páginas-web-com-css)
 - [Unidade 8 - Frameworks CSS](#unidade-8--frameworks-css)
 
-![Banner de Apresentação do Repositório da Disciplina de Desenvolvimento Web 1 do Curso Técnico em Informática para Internet do IFCE.](./assets/Banner.jpg)
+![Banner de Apresentação do Repositório da Disciplina de Desenvolvimento Web 1 do Curso Técnico em Informática para Internet do IFCE.](./assets/banner.jpg)
 
 ## Sobre a disciplina
 
