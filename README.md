@@ -1,16 +1,18 @@
-# Desenvolvimento Web 1
+<h1 align="center">
+  Desenvolvimento Web 1
+</h1>
 
 - [Sobre a disciplina](#sobre-a-disciplina)
-- [Unidade 1 - Introdução a Web e Tópicos de Design](#unidade-1--introdução-a-web-e-tópicos-de-design)
+- [Unidade 1 – Introdução a Web e Tópicos de Design](#unidade-1--introdução-a-web-e-tópicos-de-design)
 - [Unidade 2 – Construção do Design de Páginas Web com Figma](#unidade-2--construção-do-design-de-páginas-web-com-figma)
 - [Unidade 3 - Introdução ao HTML e GitHub](#unidade-3---introdução-ao-html-e-github)
-- [Unidade 4 - Sintaxe do HTML](#unidade-4--sintaxe-do-html)
-- [Unidade 5 - Layouts HTML e Introdução ao CSS](#unidade-5--layouts-html-e-introdução-ao-css)
-- [Unidade 6 - Definição de Páginas Web com CSS](#unidade-6--definição-do-design-de-páginas-web-com-css)
-- [Unidade 7 - Responsividade de Páginas Web com CSS](#unidade-7--responsividade-de-páginas-web-com-css)
-- [Unidade 8 - Frameworks CSS](#unidade-8--frameworks-css)
+- [Unidade 4 – Sintaxe do HTML](#unidade-4--sintaxe-do-html)
+- [Unidade 5 – Layouts HTML e Introdução ao CSS](#unidade-5--layouts-html-e-introdução-ao-css)
+- [Unidade 6 – Definição do Design de Páginas Web com CSS](#unidade-6--definição-do-design-de-páginas-web-com-css)
+- [Unidade 7 – Responsividade de Páginas Web com CSS](#unidade-7--responsividade-de-páginas-web-com-css)
+- [Unidade 8 – Frameworks CSS](#unidade-8--frameworks-css)
 
-![Banner da disciplina de Desenvolvimento Web 1 do curso Técnico em Informática para Internet do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).](./assets/banner.jpg)
+![Banner da disciplina de Desenvolvimento Web 1 do curso Técnico em Informática para Internet do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).](./.github/banner.jpg)
 
 ## Sobre a disciplina
 
