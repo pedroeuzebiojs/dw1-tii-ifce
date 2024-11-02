@@ -1,4 +1,6 @@
-<h1>Avaliação II da Disciplina de Desenvolvimento Web I</h1>
+<h1 align="center">
+  Avaliação II da Disciplina de Desenvolvimento Web I
+</h1>
 
 <ul>
   <li>
