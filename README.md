@@ -2,7 +2,7 @@
   Desenvolvimento Web 1
 </h1>
 
-- [Sobre a disciplina](#sobre-a-disciplina)
+- [Sobre a Disciplina](#sobre-a-disciplina)
 - [Unidade 1 – Introdução a Web e Tópicos de Design](#unidade-1--introdução-a-web-e-tópicos-de-design)
 - [Unidade 2 – Construção do Design de Páginas Web com Figma](#unidade-2--construção-do-design-de-páginas-web-com-figma)
 - [Unidade 3 - Introdução ao HTML e GitHub](#unidade-3---introdução-ao-html-e-github)
@@ -12,11 +12,33 @@
 - [Unidade 7 – Responsividade de Páginas Web com CSS](#unidade-7--responsividade-de-páginas-web-com-css)
 - [Unidade 8 – Frameworks CSS](#unidade-8--frameworks-css)
 
-![Banner da disciplina de Desenvolvimento Web 1 do curso Técnico em Informática para Internet do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).](./.github/banner.jpg)
+![Banner da disciplina de Desenvolvimento Web 1 do curso Técnico em Informática para Internet do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)](./.github/banner.jpg)
 
-## Sobre a disciplina
+## Sobre a Disciplina
 
-Nesta disciplina, iniciaremos nossa jornada no mundo do desenvolvimento web. Conheceremos o ambiente da Internet, veremos noções de design e aplicaremos esses conceitos na prática utilizando HTML e CSS.
+Nesta disciplina, iniciaremos nossa jornada no mundo do desenvolvimento web. Conheceremos o ambiente da Internet; veremos noções de design; e aplicaremos esses conceitos na prática utilizando HTML e CSS.
+
+Ao longo da disciplina, iremos construir um site. Cada estudante deve escolher um “objeto tema”. O site deve ter os seguintes elementos obrigatórios:
+
+**1. Página inicial:**
+
+- Coleção de “objetos tema” com os dados mais relevantes (Ex: título e imagem)
+
+**2. Página de detalhes:**
+
+- Visualização de todos os dados sobre o “objeto tema”
+
+**3. Página sobre o autor:**
+
+**4. Área de administração:**
+
+- Página de login
+- Página de cadastro do “objeto tema”
+  - Formulário para cadastro/edição
+  - Tabela com a lista dos objetos cadastrados. Cada linha deve ter botões para editar e apagar
+- Página de cadastro de usuários
+  - Formulário para cadastro/edição
+  - Tabela com a lista dos usuários cadastrados. Cada linha deve ter botões para editar e apagar
 
 ## Unidade 1 – Introdução a Web e Tópicos de Design
 
