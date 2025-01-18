@@ -418,15 +418,3 @@ Um iframe HTML é usado para exibir uma página da Web dentro de uma página da 
   title="Iframe Example"
 ></iframe>
 ```
-
-## Ambientes de desenvolvimento
-
-- Desktop
-  - Notepad++
-  - Visual Studio Code - Extensão Live Preview
-  - DevTools do navegador (Inspecionar)
-- Online
-  - Live Environment for Agents - tiia.com.br
-  - Codepen
-  - JSFiddle
-  - JSBin
