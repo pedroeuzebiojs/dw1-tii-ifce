@@ -1,24 +1,5 @@
 # Aula - Design de Interface do Usuário
 
-## Roteiro
-
-- Design de Interface de Usuário
-- Requisitos
-  - Consistência
-  - Padronização
-  - Integração
-  - Portabilidade
-- Critérios de qualidade
-- Conceitos
-  - Tipos de usuários da web
-  - Espaço de uma página web
-  - Navegação
-  - Página principal e páginas internas de um website
-  - Usabilidade
-  - Acessibilidade
-  - Legibilidade
-- Figma
-
 ## Design de Interface do Usuário
 
 Design de Interface do Usuário, também conhecido como UI design, é o processo de criar a aparência e a interação de um produto digital, como um aplicativo ou um site, com o objetivo de torná-lo fácil de usar e agradável para o usuário.
