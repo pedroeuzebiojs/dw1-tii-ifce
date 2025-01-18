@@ -1,12 +1,5 @@
 # Aula - Introdução ao HTML
 
-## Roteiro
-
-- Introdução ao HTML
-  - XML
-  - Sintaxe básica
-  - Elementos básicos
-
 ## XML
 
 - XML - Extensible Markup Language
