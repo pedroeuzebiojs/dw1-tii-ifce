@@ -1,14 +1,5 @@
 # Aula - Design de Interface do Usuário
 
-## Roteiro
-
-- Design de Interface de Usuário
-  - Princípios de IHC
-  - Princípios de Diagramação
-  - Princípios e elementos da UX
-  - Requisitos de usabilidade
-- Figma
-
 ## Aceitabilidade dos sistemas
 
 - Aceitabilidade social
