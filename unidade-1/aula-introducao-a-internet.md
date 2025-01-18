@@ -1,20 +1,5 @@
 # Aula - Introdução à Internet
 
-## Roteiro
-
-- Apresentação da disciplina
-- Introdução à Internet
-  - O que é a Internet?
-  - Uso da Internet
-  - Identificação de computadores e programas
-  - Arquitetura Cliente-Servidor
-  - Sites e Páginas web
-- Design de Interface de Usuário
-  - Princípios de IHC
-  - Princípios de Diagramação
-  - Princípios e elementos da UX
-  - Requisitos de usabilidade
-
 ## Apresentação da disciplina
 
 - Disciplina prática
