@@ -132,7 +132,7 @@
 </aside>
 ```
 
-## `<figure>` e `<figcation>`
+## `<figure>` e `<figcaption>`
 
 - A tag especifica conteúdo independente, como ilustrações, diagramas, fotos, listagens de código, etc
 - A tag define uma legenda para um elemento
